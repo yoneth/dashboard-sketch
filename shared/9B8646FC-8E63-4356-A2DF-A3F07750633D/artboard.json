@@ -46,8 +46,8 @@
       "id": "F22FA085-F55A-4779-948D-C91C11AD9685"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "Artboard satu",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
